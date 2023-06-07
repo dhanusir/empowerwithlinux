@@ -1,6 +1,6 @@
-# Empower with Linux
+# Learn Linux
 
-`Empower with Linux` is a free and open source based syllabus and learning resources to learn Linux.
+`Learn Linux` is a free and open source based syllabus and learning resources to learn Linux.
 
 The aim is to help students or learners with the learning resources for Linux so that they can easily get start with Linux and feel empowered.
 
@@ -28,7 +28,7 @@ If you want to contribute then, check the [`Contribution`](#contribution) sectio
 
 # Contribution
 
-You can also contribute to `Empower with Linux` by improving existing content.
+You can also contribute to `Learn Linux` by improving existing content.
 
 Following are the process to contribute:
 
@@ -39,12 +39,12 @@ Following are the process to contribute:
   After forking the repo, clone your forked repo by running following command in your machine:
 
   ```bash
-  git clone https://github.com/<your-github-username>/empowerwithlinux.git
+  git clone https://github.com/<your-github-username>/learnlinux.git
   ```
 
   __NOTE:__ Make sure to replace your GitHub username in the above command.
 
-- Get inside the repository by running the command `cd empowerwithlinux`.
+- Get inside the repository by running the command `cd learnlinux`.
 - Update the necessary content.
 - Once, the final changes are done, commit the changes. and send the pull request (PR).
 
